@@ -4,5 +4,20 @@
   },
   "scripts": {
     "start": "json-server --watch db.json --port 6080"
-  }
+  },
+  "name": "mock-2-server",
+  "version": "1.0.0",
+  "main": "db.json",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshchoudharyprogrammer/mock-2-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshchoudharyprogrammer/mock-2-server/issues"
+  },
+  "homepage": "https://github.com/lokeshchoudharyprogrammer/mock-2-server#readme",
+  "description": ""
 }
